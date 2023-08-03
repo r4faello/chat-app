@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "yX3xPuqmrrsFC2xGW+vMODK8Szv097SjRd6SauOpUyWV9seBODSbVIY14u8D9l5FAzKv4VWuaCWwZ9Cft2UWjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\SocketClint\\SocketClint\\SocketClint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\websocket-sharp-with-proxy-support\\1.9.1\\websocket-sharp-with-proxy-support.1.9.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'websocket-sharp-with-proxy-support 1.9.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "websocket-sharp-with-proxy-support",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}
